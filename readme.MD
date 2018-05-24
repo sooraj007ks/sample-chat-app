@@ -1,0 +1,1 @@
+A sample chat app using Express, MongoDB and SocketIO
